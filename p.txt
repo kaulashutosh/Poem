@@ -2,6 +2,3 @@ This is the forst version of a txt file
 This is the second version of the txtx file
 This is the 3rd version
 This is the 4th version
-This version is made by the student
-This is the 2nd version created by the branch student
-This is hte 3rd version bbty the studnet
